@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Konoha
-- 👀 I’m interested in Revese engineer
+- 👀 I’m interested in Reverse engineer
 - 🌱 I’m currently learning info security
 
 
