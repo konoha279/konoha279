@@ -1,10 +1,9 @@
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=konoha279&show_icons=true&theme=dark" alt="Konoha">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konoha279" alt="Konoha">
-
-
+<table>
+  <tr>
+    <td valign="top"><img align="left" src="https://github-readme-stats.vercel.app/api?username=konoha279&show_icons=true&theme=dark"/></td>
+    <td valign="top"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konoha279"/></td>
+  </tr>
+</table>
 
 <!--
 
