@@ -1,12 +1,18 @@
-<table>
-  <tr>
-    <td valign="top"><img align="left" src="https://github-readme-stats.vercel.app/api?username=konoha279&show_icons=true&theme=dark"/></td>
-    <td valign="top"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konoha279"/></td>
-  </tr>
-</table>
+---
+<div>
+  <table>
+    <tr>
+      <td valign="top"><img align="left" src="https://github-readme-stats.vercel.app/api?username=konoha279&show_icons=true&theme=dark"/></td>
+      <td valign="top"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konoha279&layout=compact"/></td>
+    </tr>
+  </table>
+  </br>
+  </br>
+  </br>
+</div>
 
+---
 <!--
-
 
 Here are some ideas to get you started:
 
