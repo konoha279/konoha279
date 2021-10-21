@@ -1,16 +1,8 @@
 <div align="center">
-</div>
-
-<div align="center" width="50">
-
-</div>
-
-<div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=konoha279&show_icons=true&theme=dark" alt="Konoha">
 
 </br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=konoha279&show_icons=true&theme=dark)
 
 ---
 
